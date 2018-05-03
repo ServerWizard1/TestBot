@@ -1,0 +1,16 @@
+"TDOLLNAME": {
+    "ID": 11,
+    "Country of Origin": "COUNTRY",
+    "Class":"Handgun",
+    "Stats":[
+        "Max Damage", 11,
+        "Max Evasion", 11,
+        "Max Accuracy", 11,
+        "Max Rate of Fire", 11,
+        "Max HP", 11
+    ],
+    "Skills":{
+        "SKILLNAME":"SKILLCOOLDOWN (Lv.10)",
+        "Description":"SKILLDESCRIPTION"
+    }
+}

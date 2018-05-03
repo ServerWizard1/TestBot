@@ -1,0 +1,5220 @@
+{
+    "Colt Revolver": {
+        "ID": 1,
+        "Country of Origin": "United States",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            36,
+            "Max Evasion",
+            76,
+            "Max Accuracy",
+            49,
+            "Max Rate of Fire",
+            47,
+            "Max HP",
+            80
+        ],
+        "Skills": {
+            "Fire Command": "Cooldown: 12s, 6s initial",
+            "Description": "Increases all allies damage by 22% for 8 seconds (Lv. 10)."
+        }
+    },
+    "M1911": {
+        "ID": 2,
+        "Country of Origin": "United States",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            50,
+            "Max Rate of Fire",
+            57,
+            "Max HP",
+            73
+        ],
+        "Skills": {
+            "Desperado": "12.0s cooldown, 1.0s initial cooldown",
+            "Description": "Decreases the enemy's rate of fire by 36.0% and movement speed by 45.0 within a radius of 2.5 units for 4.0 seconds (Lv. 10)."
+        },
+        "Passives": {
+            "Desperado": "Everytime the smoke bomb is tossed, the next seven attacks will target in sequence, from the closest to the furthest target. Every attack will cause 200% (Lv. 10)."
+        }
+    },
+    "M9": {
+        "ID": 3,
+        "Country of Origin": "Italy",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            56,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            76
+        ],
+        "Skills": {
+            "Flashbang": "12.0s cooldown, 3s initial cooldown",
+            "Description": "Stuns enemies a within a radius of 2.5 units for 3.2 seconds (Lv. 10)."
+        }
+    },
+    "Nagant Revolver": {
+        "ID": 5,
+        "Country of Origin": "Russian Empire",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            92,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            44,
+            "Max HP",
+            70
+        ],
+        "Skills": {
+            "Firepower Supression N": "12s cooldown, 6s initial cooldown",
+            "Description": "Decreases the enemy squads damage by 35% for 8 seconds, 20% for 5 seconds during day (Lv. 10)."
+        }
+    },
+    "Tokarev": {
+        "ID": 6,
+        "Country of Origin": "Soviet Union",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            47,
+            "Max Rate of Fire",
+            1521,
+            "Max HP",
+            86
+        ],
+        "Skills": {
+            "Cover Command": "12s cooldown, 6s initial cooldown",
+            "Description": "Increases all allies evasion by 55% for 8 seconds (Lv. 10)."
+        }
+    },
+    "Stechkin": {
+        "ID": 7,
+        "Country of Origin": "Soviet Union",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            83
+        ],
+        "Skills": {
+            "Assault Command T": "12s cooldown, 6s initial cooldown",
+            "Description": "Increases all allies rate of fire by 22% for 8 seconds (Lv. 10)."
+        }
+    },
+    "Makarov": {
+        "ID": 8,
+        "Country of Origin": "Soviet Union",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            96,
+            "Max Accuracy",
+            61,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            63
+        ],
+        "Skills": {
+            "Precision Suppression": "12s cooldown, 6s initial cooldown",
+            "Description": "Decreases the enemy squads accuracy by 36% for 6 seconds (Lv. 10)."
+        }
+    },
+    "P38": {
+        "ID": 9,
+        "Country of Origin": "Nazi Germany",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            81,
+            "Max Accuracy",
+            49,
+            "Max Rate of Fire",
+            57,
+            "Max HP",
+            66
+        ],
+        "Skills": {
+            "Flare": "16.0s cooldown, 3s initial cooldown",
+            "Description": "Increases all allies accuracy by 90.0% for 15.0 seconds (Lv. 10)."
+        }
+    },
+    "PPK": {
+        "ID": 10,
+        "Country of Origin": "Germany (Weimar Republic)",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            25,
+            "Max Evasion",
+            100,
+            "Max Accuracy",
+            59,
+            "Max Rate of Fire",
+            63,
+            "Max HP",
+            57
+        ],
+        "Skills": {
+            "Annihilation Command": "12s cooldown, 6s initial cooldown",
+            "Description": "Increases all allies damage by 10% and critical rate by 35% for 8 seconds (Lv. 10)."
+        }
+    },
+    "P08": {
+        "ID": 11,
+        "Country of Origin": "German Empire",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            80,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            55,
+            "Max HP",
+            70
+        ],
+        "Skills": {
+            "Cover Command N": "12s cooldown, 6s initial cooldown",
+            "Description": "Increases all allies evasion by 85% for 8 seconds, 35% for 5 seconds during day (Lv. 10)."
+        }
+    },
+    "C96": {
+        "ID": 12,
+        "Country of Origin": "German Empire",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            61,
+            "Max Accuracy",
+            41,
+            "Max Rate of Fire",
+            62,
+            "Max HP",
+            83
+        ],
+        "Skills": {
+            "Flare": "16.0s cooldown, 3s initial cooldown (Lv. 10)",
+            "Description": "Increases all allies accuracy by 100.0% for 15.0 seconds(night battles only)."
+        }
+    },
+    "Type 92": {
+        "ID": 13,
+        "Country of Origin": "People's Republic of China",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            80,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            63
+        ],
+        "Skills": {
+            "Charge Command": "12s cooldown, 6s initial cooldown (Lv.10)",
+            "Description": "Increases all alliess damage by 10% and rate of fire by 10% for 8 seconds."
+        }
+    },
+    "Astra Revolver": {
+        "ID": 14,
+        "Country of Origin": "Spain",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            45,
+            "Max Rate of Fire",
+            52,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "Assault Command": "12s cooldown, 6s initial cooldown (Lv.10)",
+            "Description": "Increases all allies rate of fire by 20% for 8 seconds."
+        }
+    },
+    "Glock 17": {
+        "ID": 15,
+        "Country of Origin": "Austria",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            87,
+            "Max Accuracy",
+            58,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            63,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "Firepower Supression": "12s cooldown, 6s initial cooldown (Lv.10)",
+            "Description": "Decreases the enemy squad's damage by 25% for 8 seconds."
+        }
+    },
+    "Thompson": {		
+        "ID": 16,	
+        "Country of Origin": "United States",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 31,
+               "Max Evasion", 54,
+               "Max Accuracy", 12,
+               "Max Rate of Fire", 81,
+               "Max HP", 238,
+               "Clip Size", 0,
+               "Armor", 0
+        ],	
+        "Skills":{	
+               "Force Shield":"16.0s cooldown, 8s initial cooldown (Lv.10)",
+               "Description":"Becomes invulnerable to all enemy attacks for 4.0 seconds."
+        }	
+ },	
+ "M3": {		
+        "ID": 17,	
+        "Country of Origin": "United States",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 30,
+               "Max Evasion", 67,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 68,
+               "Max HP", 185,
+               "Clip Size", 2,
+               "Armor", 2
+        ],	
+        "Skills":{	
+               "Hand Grenade":"16.0s cooldown, 3s initial cooldown (Lv.10)",
+               "Description":"Throws a grenade that deals 5.5x of M3s damage to enemies within a 2.5 unit radius."
+        }	
+ },		
+ "MAC-10": {		
+        "ID": 18,	
+        "Country of Origin": "United States",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 28,
+               "Max Evasion", 68,
+               "Max Accuracy", 11,
+               "Max Rate of Fire", 91,
+               "Max HP", 176,
+               "Clip Size", 4,
+               "Armor", 4
+        ],	
+        "Skills":{	
+               "Smoke Grenade":"16.0s cooldown, 0s initial cooldown (Lv.10)",
+               "Description":"Throws a smoke grenade that decreases the enemy's rate of fire by 36.0% and movement speed by 50.0% within a radius of 2.5 units for 4.0 seconds."
+        }	
+ },		
+ "FMG-9": {		
+        "ID": 19,	
+        "Country of Origin": "United States",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 26,
+               "Max Evasion", 90,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 92,
+               "Max HP", 141,
+               "Clip Size", 6,
+               "Armor", 6
+        ],	
+        "Skills":{	
+               "Cover Focus":"8.0s cooldown, 6s initial cooldown (Lv.10)",
+               "Description":"Increases own evasion by 120.0% for 5.0 seconds."
+        }	
+ },		
+ "Vector": {		
+        "ID": 20,	
+        "Country of Origin": "United States",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 30,
+               "Max Evasion", 71,
+               "Max Accuracy", 11,
+               "Max Rate of Fire", 101,
+               "Max HP", 185,
+               "Clip Size", 8,
+               "Armor", 8
+        ],	
+        "Skills":{	
+               "Incendiary Grenade":"16.0s cooldown, 6s initial cooldown (Lv.10)",
+               "Description":"Throws an incendiary grenade that deals 7.0x Vector's damage and a DoT of 1.0x Vectors damage for 5.0 seconds within a radius of 1.5 units."
+        }	
+ },		
+ "PPSh-41": {		
+        "ID": 21,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 26,
+               "Max Evasion", 56,
+               "Max Accuracy", 11,
+               "Max Rate of Fire", 93,
+               "Max HP", 194,
+               "Clip Size", 10,
+               "Armor", 10
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "PPS-43": {		
+        "ID": 22,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 33,
+               "Max Evasion", 65,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 74,
+               "Max HP", 176,
+               "Clip Size", 12,
+               "Armor", 12
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "PP-90": {		
+        "ID": 23,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 25,
+               "Max Evasion", 86,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 96,
+               "Max HP", 159,
+               "Clip Size", 14,
+               "Armor", 14
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "PP-2000": {		
+        "ID": 24,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 29,
+               "Max Evasion", 74,
+               "Max Accuracy", 11,
+               "Max Rate of Fire", 80,
+               "Max HP", 159,
+               "Clip Size", 16,
+               "Armor", 16
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "MP40": {		
+        "ID": 25,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 29,
+               "Max Evasion", 58,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 76,
+               "Max HP", 185,
+               "Clip Size", 18,
+               "Armor", 18
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "MP5": {		
+        "ID": 26,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 30,
+               "Max Evasion", 68,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 89,
+               "Max HP", 168,
+               "Clip Size", 20,
+               "Armor", 20
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "Skorpion": {		
+        "ID": 27,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 24,
+               "Max Evasion", 83,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 95,
+               "Max HP", 159,
+               "Clip Size", 22,
+               "Armor", 22
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "MP7": {		
+        "ID": 28,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 30,
+               "Max Evasion", 69,
+               "Max Accuracy", 13,
+               "Max Rate of Fire", 91,
+               "Max HP", 198,
+               "Clip Size", 24,
+               "Armor", 24
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "Sten MkII": {		
+        "ID": 29,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 26,
+               "Max Evasion", 75,
+               "Max Accuracy", 15,
+               "Max Rate of Fire", 78,
+               "Max HP", 185,
+               "Clip Size", 26,
+               "Armor", 26
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },		
+ "Beretta Model 38": {		
+        "ID": 31,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 33,
+               "Max Evasion", 52,
+               "Max Accuracy", 12,
+               "Max Rate of Fire", 75,
+               "Max HP", 203,
+               "Clip Size", 28,
+               "Armor", 28
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ },	
+ "Micro Uzi": {		
+        "ID": 32,	
+        "Country of Origin": "COUNTRY",	
+        "Class": "SMG",	
+        "Stats": [	
+               "Max Damage", 29,
+               "Max Evasion", 79,
+               "Max Accuracy", 11,
+               "Max Rate of Fire", 104,
+               "Max HP", 159,
+               "Clip Size", 30,
+               "Armor", 30
+        ],	
+        "Skills":{	
+               "SKILLNAME":"COOLDOWN (Lv.10)",
+               "Description":"SKILLDESC"
+        }	
+ }, 
+    "m45": {
+        "ID": 33,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            62,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            74,
+            "Max HP",
+            185,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1 Garand": {
+        "ID": 34,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            120,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1A1": {
+        "ID": 35,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            95,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            67,
+            "Max Rate of Fire",
+            38,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Springfield": {
+        "ID": 36,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            128,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            72,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M14": {
+        "ID": 37,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            108,
+            "Max Evasion",
+            27,
+            "Max Accuracy",
+            71,
+            "Max Rate of Fire",
+            43,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M21": {
+        "ID": 38,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            118,
+            "Max Evasion",
+            27,
+            "Max Accuracy",
+            74,
+            "Max Rate of Fire",
+            35,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Mosin-Nagant": {
+        "ID": 39,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            132,
+            "Max Evasion",
+            38,
+            "Max Accuracy",
+            85,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SVT-38": {
+        "ID": 40,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            110,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            59,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Simonov": {
+        "ID": 41,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            100,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            59,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PTRD": {
+        "ID": 42,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            159,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            75,
+            "Max Rate of Fire",
+            28,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SVD": {
+        "ID": 43,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            130,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            80,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SV-98": {
+        "ID": 44,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            122,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            74,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Kar98k": {
+        "ID": 46,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            135,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            78,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G43": {
+        "ID": 47,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            111,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            58,
+            "Max Rate of Fire",
+            40,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "WA2000": {
+        "ID": 48,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            130,
+            "Max Evasion",
+            30,
+            "Max Accuracy",
+            82,
+            "Max Rate of Fire",
+            39,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 56": {
+        "ID": 49,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            103,
+            "Max Evasion",
+            36,
+            "Max Accuracy",
+            65,
+            "Max Rate of Fire",
+            36,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Lee-Enfield": {
+        "ID": 50,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            135,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            78,
+            "Max Rate of Fire",
+            36,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FN-49": {
+        "ID": 51,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            111,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            61,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "BM59": {
+        "ID": 52,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            104,
+            "Max Evasion",
+            25,
+            "Max Accuracy",
+            52,
+            "Max Rate of Fire",
+            38,
+            "Max HP",
+            97,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "NTW-20": {
+        "ID": 53,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            165,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            75,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M16A1": {
+        "ID": 54,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            48,
+            "Max Evasion",
+            44,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M4A1": {
+        "ID": 55,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            46,
+            "Max Evasion",
+            48,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            79,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M4 SOPMOD II": {
+        "ID": 56,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            50,
+            "Max Evasion",
+            44,
+            "Max Accuracy",
+            49,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "ST AR-15": {
+        "ID": 57,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            48,
+            "Max Evasion",
+            50,
+            "Max Accuracy",
+            50,
+            "Max Rate of Fire",
+            77,
+            "Max HP",
+            105,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AK-47": {
+        "ID": 58,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            52,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            35,
+            "Max Rate of Fire",
+            65,
+            "Max HP",
+            132,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AS Val": {
+        "ID": 60,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            39,
+            "Max Evasion",
+            49,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            132,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "StG44": {
+        "ID": 61,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            53,
+            "Max Evasion",
+            36,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            127,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G41": {
+        "ID": 62,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            50,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            77,
+            "Max HP",
+            127,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G3": {
+        "ID": 63,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            55,
+            "Max Evasion",
+            38,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G36": {
+        "ID": 64,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            47,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            72,
+            "Max HP",
+            127,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "HK416": {
+        "ID": 65,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            51,
+            "Max Evasion",
+            43,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 56-1": {
+        "ID": 66,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            52,
+            "Max Evasion",
+            35,
+            "Max Accuracy",
+            35,
+            "Max Rate of Fire",
+            69,
+            "Max HP",
+            138,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "L85A1": {
+        "ID": 68,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            46,
+            "Max Evasion",
+            43,
+            "Max Accuracy",
+            43,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            94,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FAMAS": {
+        "ID": 69,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            44,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            81,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FNC": {
+        "ID": 70,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            51,
+            "Max Evasion",
+            37,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            73,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Galil": {
+        "ID": 71,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            50,
+            "Max Evasion",
+            43,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            66,
+            "Max HP",
+            105,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "TAR-21": {
+        "ID": 72,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            49,
+            "Max Evasion",
+            44,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            79,
+            "Max HP",
+            103,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SIG-510": {
+        "ID": 74,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            56,
+            "Max Evasion",
+            37,
+            "Max Accuracy",
+            41,
+            "Max Rate of Fire",
+            59,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1918": {
+        "ID": 75,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            96,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            31,
+            "Max Rate of Fire",
+            114,
+            "Max HP",
+            147,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M2HB": {
+        "ID": 77,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            102,
+            "Max Evasion",
+            16,
+            "Max Accuracy",
+            18,
+            "Max Rate of Fire",
+            100,
+            "Max HP",
+            215,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M60": {
+        "ID": 78,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            92,
+            "Max Evasion",
+            26,
+            "Max Accuracy",
+            26,
+            "Max Rate of Fire",
+            111,
+            "Max HP",
+            182,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M249 SAW": {
+        "ID": 79,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            79,
+            "Max Evasion",
+            36,
+            "Max Accuracy",
+            35,
+            "Max Rate of Fire",
+            139,
+            "Max HP",
+            157,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1919A4": {
+        "ID": 80,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            96,
+            "Max Evasion",
+            22,
+            "Max Accuracy",
+            26,
+            "Max Rate of Fire",
+            99,
+            "Max HP",
+            182,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "LWMMG": {
+        "ID": 81,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            95,
+            "Max Evasion",
+            22,
+            "Max Accuracy",
+            24,
+            "Max Rate of Fire",
+            90,
+            "Max HP",
+            174,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "DP28": {
+        "ID": 82,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            88,
+            "Max Evasion",
+            31,
+            "Max Accuracy",
+            28,
+            "Max Rate of Fire",
+            114,
+            "Max HP",
+            141,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "RPD": {
+        "ID": 84,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            82,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            34,
+            "Max Rate of Fire",
+            121,
+            "Max HP",
+            165,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PK": {
+        "ID": 85,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            93,
+            "Max Evasion",
+            22,
+            "Max Accuracy",
+            21,
+            "Max Rate of Fire",
+            83,
+            "Max HP",
+            190,
+            "Clip Size",
+            11,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MG42": {
+        "ID": 86,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            87,
+            "Max Evasion",
+            26,
+            "Max Accuracy",
+            23,
+            "Max Rate of Fire",
+            132,
+            "Max HP",
+            165,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MG34": {
+        "ID": 87,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            85,
+            "Max Evasion",
+            25,
+            "Max Accuracy",
+            22,
+            "Max Rate of Fire",
+            120,
+            "Max HP",
+            165,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MG3": {
+        "ID": 88,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            85,
+            "Max Evasion",
+            21,
+            "Max Accuracy",
+            26,
+            "Max Rate of Fire",
+            130,
+            "Max HP",
+            198,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Bren": {
+        "ID": 89,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            89,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            31,
+            "Max Rate of Fire",
+            102,
+            "Max HP",
+            174,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FNP-9": {
+        "ID": 90,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            83,
+            "Max Accuracy",
+            53,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            60,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MP-446": {
+        "ID": 91,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            53,
+            "Max Rate of Fire",
+            59,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Spectre M4": {
+        "ID": 92,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            25,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            88,
+            "Max HP",
+            176,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "IDW": {
+        "ID": 93,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            85,
+            "Max Accuracy",
+            15,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            150,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 64": {
+        "ID": 94,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            65,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            93,
+            "Max HP",
+            176,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Hanyang Type 88": {
+        "ID": 95,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            108,
+            "Max Evasion",
+            37,
+            "Max Accuracy",
+            60,
+            "Max Rate of Fire",
+            31,
+            "Max HP",
+            102,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Grizzly MkV": {
+        "ID": 96,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            38,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            51,
+            "Max Rate of Fire",
+            54,
+            "Max HP",
+            86,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M950A": {
+        "ID": 97,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            55,
+            "Max Rate of Fire",
+            72,
+            "Max HP",
+            76,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SPP-1": {
+        "ID": 98,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            35,
+            "Max Evasion",
+            75,
+            "Max Accuracy",
+            61,
+            "Max Rate of Fire",
+            48,
+            "Max HP",
+            76,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Mk23": {
+        "ID": 99,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            66,
+            "Max Accuracy",
+            53,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "P7": {
+        "ID": 100,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            83,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            62,
+            "Max HP",
+            63,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "UMP9": {
+        "ID": 101,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            76,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            87,
+            "Max HP",
+            176,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "UMP40": {
+        "ID": 102,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            75,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            85,
+            "Max HP",
+            180,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "UMP45": {
+        "ID": 103,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            82,
+            "Max HP",
+            185,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G36C": {
+        "ID": 104,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            65,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            83,
+            "Max HP",
+            203,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "OTs-12": {
+        "ID": 105,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            42,
+            "Max Evasion",
+            54,
+            "Max Accuracy",
+            54,
+            "Max Rate of Fire",
+            72,
+            "Max HP",
+            105,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FAL": {
+        "ID": 106,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            57,
+            "Max Evasion",
+            38,
+            "Max Accuracy",
+            40,
+            "Max Rate of Fire",
+            72,
+            "Max HP",
+            132,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "F2000": {
+        "ID": 107,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            42,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            81,
+            "Max HP",
+            105,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "CZ-805": {
+        "ID": 108,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            43,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            49,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MG5": {
+        "ID": 109,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            85,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            29,
+            "Max Rate of Fire",
+            120,
+            "Max HP",
+            198,
+            "Clip Size",
+            11,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "FG42": {
+        "ID": 110,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            87,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            28,
+            "Max Rate of Fire",
+            121,
+            "Max HP",
+            149,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AAT-52": {
+        "ID": 111,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            79,
+            "Max Evasion",
+            22,
+            "Max Accuracy",
+            24,
+            "Max Rate of Fire",
+            118,
+            "Max HP",
+            182,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Negev": {
+        "ID": 112,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            84,
+            "Max Evasion",
+            36,
+            "Max Accuracy",
+            35,
+            "Max Rate of Fire",
+            139,
+            "Max HP",
+            174,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Serdyukov": {
+        "ID": 113,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            58,
+            "Max Rate of Fire",
+            58,
+            "Max HP",
+            70,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Welrod MkII": {
+        "ID": 114,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            90,
+            "Max Accuracy",
+            71,
+            "Max Rate of Fire",
+            52,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Suomi": {
+        "ID": 115,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            56,
+            "Max Accuracy",
+            15,
+            "Max Rate of Fire",
+            93,
+            "Max HP",
+            220,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Z-62": {
+        "ID": 116,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            77,
+            "Max Accuracy",
+            15,
+            "Max Rate of Fire",
+            77,
+            "Max HP",
+            168,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PSG-1": {
+        "ID": 117,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            120,
+            "Max Evasion",
+            26,
+            "Max Accuracy",
+            73,
+            "Max Rate of Fire",
+            39,
+            "Max HP",
+            93,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "9A-91": {
+        "ID": 118,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            42,
+            "Max Evasion",
+            50,
+            "Max Accuracy",
+            49,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "OTs-14": {
+        "ID": 119,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            49,
+            "Max Evasion",
+            54,
+            "Max Accuracy",
+            54,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "ARX-160": {
+        "ID": 120,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            49,
+            "Max Evasion",
+            48,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            73,
+            "Max HP",
+            99,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Mk48": {
+        "ID": 121,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            90,
+            "Max Evasion",
+            26,
+            "Max Accuracy",
+            24,
+            "Max Rate of Fire",
+            112,
+            "Max HP",
+            174,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G11": {
+        "ID": 122,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            43,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            95,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "P99": {
+        "ID": 123,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            87,
+            "Max Accuracy",
+            56,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            60,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Super SASS": {
+        "ID": 124,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            115,
+            "Max Evasion",
+            27,
+            "Max Accuracy",
+            65,
+            "Max Rate of Fire",
+            39,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MG4": {
+        "ID": 125,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            84,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            34,
+            "Max Rate of Fire",
+            139,
+            "Max HP",
+            182,
+            "Clip Size",
+            9,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "NZ75": {
+        "ID": 126,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            63,
+            "Max HP",
+            73,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 79": {
+        "ID": 127,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            70,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            88,
+            "Max HP",
+            194,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M99": {
+        "ID": 128,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            157,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            81,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 95": {
+        "ID": 129,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            55,
+            "Max Evasion",
+            46,
+            "Max Accuracy",
+            52,
+            "Max Rate of Fire",
+            71,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 97": {
+        "ID": 130,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            54,
+            "Max Evasion",
+            46,
+            "Max Accuracy",
+            51,
+            "Max Rate of Fire",
+            72,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "EVO 3": {
+        "ID": 131,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            23,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            93,
+            "Max HP",
+            194,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 59": {
+        "ID": 132,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            96,
+            "Max Accuracy",
+            61,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            60,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 63": {
+        "ID": 133,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            49,
+            "Max Evasion",
+            35,
+            "Max Accuracy",
+            35,
+            "Max Rate of Fire",
+            70,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AR70": {
+        "ID": 134,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            49,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            43,
+            "Max Rate of Fire",
+            70,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SR-3MP": {
+        "ID": 135,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            67,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            90,
+            "Max HP",
+            185,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PP-19": {
+        "ID": 136,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            91,
+            "Max HP",
+            176,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PP-19-01": {
+        "ID": 137,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            85,
+            "Max HP",
+            194,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "6P62": {
+        "ID": 138,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            69,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            37,
+            "Max Rate of Fire",
+            54,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Bren Ten": {
+        "ID": 139,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            63,
+            "Max Accuracy",
+            51,
+            "Max Rate of Fire",
+            58,
+            "Max HP",
+            70,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PSM": {
+        "ID": 140,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            24,
+            "Max Evasion",
+            112,
+            "Max Accuracy",
+            67,
+            "Max Rate of Fire",
+            65,
+            "Max HP",
+            57,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "USP Compact": {
+        "ID": 141,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            86,
+            "Max Accuracy",
+            60,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Five-seveN": {
+        "ID": 142,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            97,
+            "Max Accuracy",
+            57,
+            "Max Rate of Fire",
+            66,
+            "Max HP",
+            63,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "RO635": {
+        "ID": 143,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            71,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            97,
+            "Max HP",
+            194,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MT-9": {
+        "ID": 144,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            25,
+            "Max Evasion",
+            60,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            88,
+            "Max HP",
+            203,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "OTs-44": {
+        "ID": 145,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            157,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            67,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "G28": {
+        "ID": 146,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            121,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            80,
+            "Max Rate of Fire",
+            39,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SSG 69": {
+        "ID": 147,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            130,
+            "Max Evasion",
+            39,
+            "Max Accuracy",
+            82,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "IWS 2000": {
+        "ID": 148,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            164,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            78,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AEK-999": {
+        "ID": 149,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            91,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            29,
+            "Max Rate of Fire",
+            120,
+            "Max HP",
+            165,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Shipka": {
+        "ID": 150,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            79,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            95,
+            "Max HP",
+            168,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1887": {
+        "ID": 151,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            39,
+            "Max Evasion",
+            12,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            22,
+            "Max HP",
+            275,
+            "Clip Size",
+            4,
+            "Armor",
+            22
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M1897": {
+        "ID": 152,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            37,
+            "Max Evasion",
+            11,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            26,
+            "Max HP",
+            253,
+            "Clip Size",
+            4,
+            "Armor",
+            21
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M37": {
+        "ID": 153,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            12,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            26,
+            "Max HP",
+            253,
+            "Clip Size",
+            4,
+            "Armor",
+            24
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M500": {
+        "ID": 154,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            10,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            29,
+            "Max HP",
+            264,
+            "Clip Size",
+            4,
+            "Armor",
+            23
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M590": {
+        "ID": 155,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            10,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            31,
+            "Max HP",
+            264,
+            "Clip Size",
+            4,
+            "Armor",
+            24
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Super-Shorty": {
+        "ID": 156,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            19,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            242,
+            "Clip Size",
+            3,
+            "Armor",
+            20
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "KSG": {
+        "ID": 157,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            12,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            253,
+            "Clip Size",
+            5,
+            "Armor",
+            24
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "KS-23": {
+        "ID": 158,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            40,
+            "Max Evasion",
+            10,
+            "Max Accuracy",
+            9,
+            "Max Rate of Fire",
+            25,
+            "Max HP",
+            275,
+            "Clip Size",
+            3,
+            "Armor",
+            23
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "RMB-93": {
+        "ID": 159,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            13,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            28,
+            "Max HP",
+            242,
+            "Clip Size",
+            4,
+            "Armor",
+            24
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Saiga-12": {
+        "ID": 160,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            11,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            35,
+            "Max HP",
+            264,
+            "Clip Size",
+            5,
+            "Armor",
+            23
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 97 Shotgun": {
+        "ID": 161,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            13,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            27,
+            "Max HP",
+            264,
+            "Clip Size",
+            3,
+            "Armor",
+            20
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SPAS-12": {
+        "ID": 162,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            35,
+            "Max Evasion",
+            9,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            275,
+            "Clip Size",
+            4,
+            "Armor",
+            21
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "CZ75": {
+        "ID": 166,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            36,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            66,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "HK45": {
+        "ID": 167,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            34,
+            "Max Evasion",
+            80,
+            "Max Accuracy",
+            58,
+            "Max Rate of Fire",
+            55,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Spitfire": {
+        "ID": 168,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            71,
+            "Max Accuracy",
+            60,
+            "Max Rate of Fire",
+            59,
+            "Max HP",
+            70,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SCW": {
+        "ID": 169,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            91,
+            "Max HP",
+            168,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "ASh-12.7": {
+        "ID": 170,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            67,
+            "Max Evasion",
+            36,
+            "Max Accuracy",
+            41,
+            "Max Rate of Fire",
+            59,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Ribeyrolles": {
+        "ID": 171,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            64,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            63,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "RFB": {
+        "ID": 172,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            69,
+            "Max Evasion",
+            49,
+            "Max Accuracy",
+            68,
+            "Max Rate of Fire",
+            54,
+            "Max HP",
+            105,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PKP": {
+        "ID": 173,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            95,
+            "Max Evasion",
+            29,
+            "Max Accuracy",
+            31,
+            "Max Rate of Fire",
+            127,
+            "Max HP",
+            165,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 81 Carbine": {
+        "ID": 174,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            123,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            79,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            75,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "ART556": {
+        "ID": 175,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            53,
+            "Max Evasion",
+            49,
+            "Max Accuracy",
+            53,
+            "Max Rate of Fire",
+            69,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "TMP": {
+        "ID": 176,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            28,
+            "Max Evasion",
+            77,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            93,
+            "Max HP",
+            150,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "KLIN": {
+        "ID": 177,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            25,
+            "Max Evasion",
+            74,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            95,
+            "Max HP",
+            190,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "F1": {
+        "ID": 178,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            60,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            79,
+            "Max HP",
+            212,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "DSR-50": {
+        "ID": 179,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            163,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            87,
+            "Max Rate of Fire",
+            31,
+            "Max HP",
+            82,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "PzB 39": {
+        "ID": 180,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            149,
+            "Max Evasion",
+            31,
+            "Max Accuracy",
+            71,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "T91": {
+        "ID": 181,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            51,
+            "Max Evasion",
+            46,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            124,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "wz.29": {
+        "ID": 182,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            113,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            65,
+            "Max Rate of Fire",
+            32,
+            "Max HP",
+            97,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Contender": {
+        "ID": 183,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            46,
+            "Max Evasion",
+            82,
+            "Max Accuracy",
+            85,
+            "Max Rate of Fire",
+            44,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "T-5000": {
+        "ID": 184,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            126,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            85,
+            "Max Rate of Fire",
+            36,
+            "Max HP",
+            90,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Ameli": {
+        "ID": 185,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            85,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            38,
+            "Max Rate of Fire",
+            149,
+            "Max HP",
+            141,
+            "Clip Size",
+            8,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "P226": {
+        "ID": 186,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            63,
+            "Max Accuracy",
+            58,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            73,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Ak 5": {
+        "ID": 187,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            51,
+            "Max Evasion",
+            38,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            75,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "S.A.T.8": {
+        "ID": 188,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            12,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            33,
+            "Max HP",
+            282,
+            "Clip Size",
+            4,
+            "Armor",
+            22
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "USAS-12": {
+        "ID": 189,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            10,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            260,
+            "Clip Size",
+            0,
+            "Armor",
+            22
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "NS2000": {
+        "ID": 190,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            11,
+            "Max Accuracy",
+            12,
+            "Max Rate of Fire",
+            27,
+            "Max HP",
+            253,
+            "Clip Size",
+            0,
+            "Armor",
+            20
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "M12": {
+        "ID": 191,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            26,
+            "Max Evasion",
+            64,
+            "Max Accuracy",
+            15,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            203,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "JS05": {
+        "ID": 192,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            158,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            88,
+            "Max Rate of Fire",
+            31,
+            "Max HP",
+            90,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "T65": {
+        "ID": 193,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            54,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            124,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "K2": {
+        "ID": 194,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            50,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            51,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            127,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "HK23": {
+        "ID": 195,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            80,
+            "Max Evasion",
+            34,
+            "Max Accuracy",
+            34,
+            "Max Rate of Fire",
+            135,
+            "Max HP",
+            149,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Zas M21": {
+        "ID": 196,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            55,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            48,
+            "Max Rate of Fire",
+            74,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Carcano M1891": {
+        "ID": 197,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            138,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            85,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            80,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Carcano M91/38": {
+        "ID": 198,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            146,
+            "Max Evasion",
+            44,
+            "Max Accuracy",
+            90,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            73,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Type 80": {
+        "ID": 199,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            93,
+            "Max Evasion",
+            24,
+            "Max Accuracy",
+            26,
+            "Max Rate of Fire",
+            118,
+            "Max HP",
+            174,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "XM3": {
+        "ID": 200,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            130,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            90,
+            "Max Rate of Fire",
+            35,
+            "Max HP",
+            82,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Gepard M1": {
+        "ID": 201,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            143,
+            "Max Evasion",
+            28,
+            "Max Accuracy",
+            77,
+            "Max Rate of Fire",
+            30,
+            "Max HP",
+            88,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Thunder": {
+        "ID": 202,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            46,
+            "Max Evasion",
+            60,
+            "Max Accuracy",
+            57,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            86,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Honey Badger": {
+        "ID": 203,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            60,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            82,
+            "Max HP",
+            198,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Ballista": {
+        "ID": 204,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            139,
+            "Max Evasion",
+            35,
+            "Max Accuracy",
+            92,
+            "Max Rate of Fire",
+            36,
+            "Max HP",
+            82,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AN-94": {
+        "ID": 205,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            55,
+            "Max Evasion",
+            48,
+            "Max Accuracy",
+            67,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            116,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "AK-12": {
+        "ID": 206,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            56,
+            "Max Evasion",
+            52,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "CZ2000": {
+        "ID": 207,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            48,
+            "Max Evasion",
+            46,
+            "Max Accuracy",
+            44,
+            "Max Rate of Fire",
+            78,
+            "Max HP",
+            110,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "HK21": {
+        "ID": 208,
+        "Country of Origin": "COUNTRY",
+        "Class": "Machinegun",
+        "Stats": [
+            "Max Damage",
+            92,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            29,
+            "Max Rate of Fire",
+            135,
+            "Max HP",
+            169,
+            "Clip Size",
+            10,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "OTs-39": {
+        "ID": 209,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            27,
+            "Max Evasion",
+            72,
+            "Max Accuracy",
+            14,
+            "Max Rate of Fire",
+            74,
+            "Max HP",
+            190,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "CZ52": {
+        "ID": 210,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            33,
+            "Max Evasion",
+            68,
+            "Max Accuracy",
+            50,
+            "Max Rate of Fire",
+            53,
+            "Max HP",
+            76,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SRS": {
+        "ID": 211,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            135,
+            "Max Evasion",
+            35,
+            "Max Accuracy",
+            82,
+            "Max Rate of Fire",
+            35,
+            "Max HP",
+            87,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "K5": {
+        "ID": 212,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            29,
+            "Max Evasion",
+            81,
+            "Max Accuracy",
+            52,
+            "Max Rate of Fire",
+            62,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "C-MS": {
+        "ID": 213,
+        "Country of Origin": "COUNTRY",
+        "Class": "Submachine Gun",
+        "Stats": [
+            "Max Damage",
+            32,
+            "Max Evasion",
+            75,
+            "Max Accuracy",
+            15,
+            "Max Rate of Fire",
+            87,
+            "Max HP",
+            185,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "MDR": {
+        "ID": 215,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            56,
+            "Max Evasion",
+            41,
+            "Max Accuracy",
+            50,
+            "Max Rate of Fire",
+            76,
+            "Max HP",
+            119,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "XM8": {
+        "ID": 216,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            48,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            46,
+            "Max Rate of Fire",
+            79,
+            "Max HP",
+            108,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "SM-1": {
+        "ID": 217,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            95,
+            "Max Evasion",
+            40,
+            "Max Accuracy",
+            79,
+            "Max Rate of Fire",
+            40,
+            "Max HP",
+            101,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Noel": {
+        "ID": 1001,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            38,
+            "Max Evasion",
+            82,
+            "Max Accuracy",
+            59,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            60,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Elphelt": {
+        "ID": 1002,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            36,
+            "Max Evasion",
+            9,
+            "Max Accuracy",
+            13,
+            "Max Rate of Fire",
+            28,
+            "Max HP",
+            275,
+            "Clip Size",
+            5,
+            "Armor",
+            23
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Kiana": {
+        "ID": 1003,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            76,
+            "Max Accuracy",
+            53,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            70,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Raiden Mei": {
+        "ID": 1004,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            146,
+            "Max Evasion",
+            32,
+            "Max Accuracy",
+            70,
+            "Max Rate of Fire",
+            34,
+            "Max HP",
+            84,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Bronya": {
+        "ID": 1005,
+        "Country of Origin": "COUNTRY",
+        "Class": "Rifle",
+        "Stats": [
+            "Max Damage",
+            132,
+            "Max Evasion",
+            33,
+            "Max Accuracy",
+            77,
+            "Max Rate of Fire",
+            37,
+            "Max HP",
+            81,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Theresa": {
+        "ID": 1006,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            30,
+            "Max Evasion",
+            79,
+            "Max Accuracy",
+            47,
+            "Max Rate of Fire",
+            54,
+            "Max HP",
+            83,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Murata Himeko": {
+        "ID": 1007,
+        "Country of Origin": "COUNTRY",
+        "Class": "Assault Rifle",
+        "Stats": [
+            "Max Damage",
+            58,
+            "Max Evasion",
+            42,
+            "Max Accuracy",
+            45,
+            "Max Rate of Fire",
+            64,
+            "Max HP",
+            121,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Seele": {
+        "ID": 1008,
+        "Country of Origin": "COUNTRY",
+        "Class": "Shotgun",
+        "Stats": [
+            "Max Damage",
+            35,
+            "Max Evasion",
+            13,
+            "Max Accuracy",
+            11,
+            "Max Rate of Fire",
+            27,
+            "Max HP",
+            247,
+            "Clip Size",
+            5,
+            "Armor",
+            22
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Clear": {
+        "ID": 1009,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            88,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    },
+    "Fail": {
+        "ID": 1010,
+        "Country of Origin": "COUNTRY",
+        "Class": "Handgun",
+        "Stats": [
+            "Max Damage",
+            31,
+            "Max Evasion",
+            88,
+            "Max Accuracy",
+            62,
+            "Max Rate of Fire",
+            61,
+            "Max HP",
+            66,
+            "Clip Size",
+            0,
+            "Armor",
+            0
+        ],
+        "Skills": {
+            "SKILLNAME": "COOLDOWN (Lv.10)",
+            "Description": "SKILLDESC"
+        }
+    }
+}
